@@ -1,8 +1,5 @@
 
 
-void BubbleSort(int[],int,int);
-void swap(int*, int*);
-void swapArth(int*, int*);
 
 int Arr[MAXSIZE], size,order;
 int main(){\
